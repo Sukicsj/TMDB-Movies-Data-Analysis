@@ -3,27 +3,27 @@ In this project, we will be exploring the TMDB Movies dataset. This dataset cont
 
 There are budget_adj and revenue_adj columns in this dataset, which take into account of the inflation in terms of 2010 dollars. We will use this adjusted values while doing our analysis for a fairer comparison.
 
-id - unique value for each movie
-imdb_id - unique value assigned to the movie by imdb
-popularity - the popularity rating awarded to the movie
-budget - budget for the movie (in USD)
-revenue - revenue earned (in USD)
-original_title - the title of the movie
-cast - the name of the casts
-homepage - the website of the movie (if any)
-director - the name of the directors
-tagline - the tagline of the movie
-keywords - the keyword of the movie
-overview - the overview of the movie
-runtime - the runtime of the movie
-genres - the genres of the movie
-production_companies - the companies who produced the movie
-release_date - the release date of the movie
-vote_count - the total vote of the movie
-vote_average - the average vote of the movie
-release_year - the year that movie was released
-budget_adj - the budget of the movie (adjusted by inflation in terms of 2010 dollars)
-revenue_adj - the revenue of the movie (adjusted by inflation in terms of 2010 dollars)
+1. id - unique value for each movie
+2. imdb_id - unique value assigned to the movie by imdb
+3. popularity - the popularity rating awarded to the movie
+4. budget - budget for the movie (in USD)
+5. revenue - revenue earned (in USD)
+6. original_title - the title of the movie
+7. cast - the name of the casts
+8. homepage - the website of the movie (if any)
+9. director - the name of the directors
+10. tagline - the tagline of the movie
+11. keywords - the keyword of the movie
+12. overview - the overview of the movie
+13. runtime - the runtime of the movie
+14. genres - the genres of the movie
+15. production_companies - the companies who produced the movie
+16. release_date - the release date of the movie
+17. vote_count - the total vote of the movie
+18. vote_average - the average vote of the movie
+19. release_year - the year that movie was released
+20. budget_adj - the budget of the movie (adjusted by inflation in terms of 2010 dollars)
+21. revenue_adj - the revenue of the movie (adjusted by inflation in terms of 2010 dollars)
 
 # For this analysis, we are interested to find out:
 
