@@ -27,7 +27,7 @@ There are budget_adj and revenue_adj columns in this dataset, which take into ac
 
 # For this analysis, we are interested to find out:
 
-Top 10 directors, casts, production companies, genres (in volume).
-What is the movies popularity trend over the years?
-Find the movies with maximum and minimum budget/revenue/profit/popularity/runtime
-What are the properities of Top 100 Revenue Movies?
+1. Top 10 directors, casts, production companies, genres (in volume).
+2. What is the movies popularity trend over the years?
+3. Find the movies with maximum and minimum budget/revenue/profit/popularity/runtime
+4. What are the properities of Top 100 Revenue Movies?
