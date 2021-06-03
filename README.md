@@ -25,8 +25,7 @@ There are budget_adj and revenue_adj columns in this dataset, which take into ac
 20. budget_adj - the budget of the movie (adjusted by inflation in terms of 2010 dollars)
 21. revenue_adj - the revenue of the movie (adjusted by inflation in terms of 2010 dollars)
 
-# For this analysis, we are interested to find out:
-
+# From this analysis, we are interested to find out :
 1. Top 10 directors, casts, production companies, genres (in volume).
 2. What is the movies popularity trend over the years?
 3. Find the movies with maximum and minimum budget/revenue/profit/popularity/runtime
